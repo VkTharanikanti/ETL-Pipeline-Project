@@ -324,3 +324,23 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+
+# Ignore ETL generated data
+data/bronze/
+data/silver/
+data/gold/
+
+# Ignore large CSVs
+*.csv
+
+# Keep only sample data
+!data/sample_data/
+!data/sample_data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
