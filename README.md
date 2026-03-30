@@ -155,7 +155,7 @@ This project simulates a **real-world retail analytics pipeline**, useful for:
 
 ## 🙌 Author
 
-**Your Name**
+**VenkataKrishna Sharma Tharanikanti**
 📌 Aspiring Data Engineer
 
 ---
